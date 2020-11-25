@@ -1,4 +1,6 @@
-#MergeSortedArrays
+# Arrays
+
+## MergeSortedArrays
 
 It's still ugly... Hopefully I have time to improve.
 
